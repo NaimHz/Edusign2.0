@@ -111,4 +111,3 @@ npx expo start
   - React Native
   - Expo
   - TypeScript
-
